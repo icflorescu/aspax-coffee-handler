@@ -1,5 +1,4 @@
 ## What's this?
-
 A plugin that enables [ASPAX](http://aspax.github.io) to handle [CoffeeScript](http://coffeescript.org) files.
 
 ## Installation
