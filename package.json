@@ -1,8 +1,11 @@
 {
   "name": "aspax-coffee-handler",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "description": "Plugin enabling ASPAX to handle CoffeeScript files.",
-  "repository": "git://github.com/icflorescu/aspax-coffee-handler",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/icflorescu/aspax-coffee-handler"
+  },
   "homepage": "http://aspax.github.io",
   "keywords": [
     "aspax",
