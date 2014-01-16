@@ -2,11 +2,10 @@
   "name": "aspax-coffee-handler",
   "version": "0.6.4",
   "description": "Plugin enabling ASPAX to handle CoffeeScript files.",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/icflorescu/aspax-coffee-handler"
-  },
   "homepage": "http://aspax.github.io",
+  "dependencies": {
+    "coffee-script": "~1.6.3"
+  },
   "keywords": [
     "aspax",
     "coffee",
@@ -14,13 +13,17 @@
     "js",
     "compilation"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/icflorescu/aspax-coffee-handler"
+  },
+  "bugs": {
+    "url": "https://github.com/icflorescu/aspax-coffee-handler/issues"
+  },
   "author": {
     "name": "Ionut-Cristian Florescu",
     "email": "ionut.florescu@gmail.com",
     "url": "https://coderwall.com/icflorescu"
   },
-  "license": "MIT",
-  "dependencies": {
-    "coffee-script": "~1.6.3"
-  }
+  "license": "MIT"
 }
