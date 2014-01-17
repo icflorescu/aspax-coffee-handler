@@ -1,4 +1,6 @@
 ## What's this?
+[![NPM version](https://badge.fury.io/js/aspax-coffee-handler.png)](http://badge.fury.io/js/aspax-coffee-handler)
+
 A plugin that enables [ASPAX](http://aspax.github.io) to handle [CoffeeScript](http://coffeescript.org) files.
 
 ## Installation
