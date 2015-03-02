@@ -1,6 +1,6 @@
 {
   "name": "aspax-coffee-handler",
-  "version": "0.7.9",
+  "version": "0.8.0",
   "description": "Plugin enabling ASPAX to handle CoffeeScript files.",
   "keywords": [
     "aspax",
@@ -10,7 +10,7 @@
     "compilation"
   ],
   "dependencies": {
-    "coffee-script": "^1.9.0"
+    "coffee-script": "^1.9.1"
   },
   "engines": {
     "node": ">=0.8.16"
